@@ -1,0 +1,17 @@
+C:\Users\coomp\source\repos\Rimworld_Mass_Mod_Downloader\Rimworld_Mass_Mod_Downloader\bin\Debug\net8.0\Rimworld_Mass_Mod_Downloader.exe
+C:\Users\coomp\source\repos\Rimworld_Mass_Mod_Downloader\Rimworld_Mass_Mod_Downloader\bin\Debug\net8.0\Rimworld_Mass_Mod_Downloader.deps.json
+C:\Users\coomp\source\repos\Rimworld_Mass_Mod_Downloader\Rimworld_Mass_Mod_Downloader\bin\Debug\net8.0\Rimworld_Mass_Mod_Downloader.runtimeconfig.json
+C:\Users\coomp\source\repos\Rimworld_Mass_Mod_Downloader\Rimworld_Mass_Mod_Downloader\bin\Debug\net8.0\Rimworld_Mass_Mod_Downloader.dll
+C:\Users\coomp\source\repos\Rimworld_Mass_Mod_Downloader\Rimworld_Mass_Mod_Downloader\bin\Debug\net8.0\Rimworld_Mass_Mod_Downloader.pdb
+C:\Users\coomp\source\repos\Rimworld_Mass_Mod_Downloader\Rimworld_Mass_Mod_Downloader\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\coomp\source\repos\Rimworld_Mass_Mod_Downloader\Rimworld_Mass_Mod_Downloader\obj\Debug\net8.0\Rimworld_Mass_Mod_Downloader.csproj.AssemblyReference.cache
+C:\Users\coomp\source\repos\Rimworld_Mass_Mod_Downloader\Rimworld_Mass_Mod_Downloader\obj\Debug\net8.0\Rimworld_Mass_Mod_Downloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coomp\source\repos\Rimworld_Mass_Mod_Downloader\Rimworld_Mass_Mod_Downloader\obj\Debug\net8.0\Rimworld_Mass_Mod_Downloader.AssemblyInfoInputs.cache
+C:\Users\coomp\source\repos\Rimworld_Mass_Mod_Downloader\Rimworld_Mass_Mod_Downloader\obj\Debug\net8.0\Rimworld_Mass_Mod_Downloader.AssemblyInfo.cs
+C:\Users\coomp\source\repos\Rimworld_Mass_Mod_Downloader\Rimworld_Mass_Mod_Downloader\obj\Debug\net8.0\Rimworld_Mass_Mod_Downloader.csproj.CoreCompileInputs.cache
+C:\Users\coomp\source\repos\Rimworld_Mass_Mod_Downloader\Rimworld_Mass_Mod_Downloader\obj\Debug\net8.0\Rimworld.6EB1AF71.Up2Date
+C:\Users\coomp\source\repos\Rimworld_Mass_Mod_Downloader\Rimworld_Mass_Mod_Downloader\obj\Debug\net8.0\Rimworld_Mass_Mod_Downloader.dll
+C:\Users\coomp\source\repos\Rimworld_Mass_Mod_Downloader\Rimworld_Mass_Mod_Downloader\obj\Debug\net8.0\refint\Rimworld_Mass_Mod_Downloader.dll
+C:\Users\coomp\source\repos\Rimworld_Mass_Mod_Downloader\Rimworld_Mass_Mod_Downloader\obj\Debug\net8.0\Rimworld_Mass_Mod_Downloader.pdb
+C:\Users\coomp\source\repos\Rimworld_Mass_Mod_Downloader\Rimworld_Mass_Mod_Downloader\obj\Debug\net8.0\Rimworld_Mass_Mod_Downloader.genruntimeconfig.cache
+C:\Users\coomp\source\repos\Rimworld_Mass_Mod_Downloader\Rimworld_Mass_Mod_Downloader\obj\Debug\net8.0\ref\Rimworld_Mass_Mod_Downloader.dll

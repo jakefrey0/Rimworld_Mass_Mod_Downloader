@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mHd3yLhajoaETTIXzZXnVX/1a14F2BR1A9R1fvcwxqRuva9anfLwdvJkNnQa7XL+tVicUoksPq23Ri0ibrKwPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\coomp\\source\\repos\\Rimworld_Mass_Mod_Downloader\\Rimworld_Mass_Mod_Downloader\\Rimworld_Mass_Mod_Downloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\coomp\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512"
+  ],
+  "logs": []
+}
