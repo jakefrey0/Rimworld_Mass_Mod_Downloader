@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rimworld_Mass_Mod_Downloader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+235573cb730f2901640cedee1578035c7dda0817")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rimworld_Mass_Mod_Downloader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rimworld_Mass_Mod_Downloader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
