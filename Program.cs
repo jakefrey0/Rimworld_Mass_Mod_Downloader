@@ -32,6 +32,10 @@ namespace Rimworld_Mass_Mod_Downloader {
 				doc=html.Load(name);
 				pn=name;
 			}
+			// This parses html
+			// Essentialy we are just getting the ID of the mod
+			// There are 30 mods on each page
+			// If this breaks, you will just have to parse html to get the ID of the mods in a new way. I can easily do it if I realize it needs to be fixed.
             sb.Append("+workshop_download_item 294100 "+doc.DocumentNode.Descendants(0).Where(n=>n.HasClass("workshopBrowseItems")).First().ChildNodes.Where(x=>x.HasClass("workshopItem")).ElementAt(index%30).ChildNodes.Where(x=>x.Name=="a").First().OuterHtml.Substring(9).Split("&")[0].Split("=").Last().ToString()+' ');
 		}
 
