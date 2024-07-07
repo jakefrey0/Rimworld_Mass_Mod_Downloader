@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2855BA0D-C83C-4D98-9E81-9040EECE0E35}|Default">
+  <MonoDevelop.Ide.ItemProperties.RimworldMMD__Linux PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RimworldMMD_Linux/Program.cs">
+    <Files>
+      <File FileName="RimworldMMD_Linux/Program.cs" Line="56" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RimworldMMD_Linux" expanded="True">
+            <Node name="RimworldMMD_Linux" expanded="True" selected="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
